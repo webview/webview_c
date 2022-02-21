@@ -1,3 +1,3 @@
 # webviewc
-Correct Webview "bindings" to C
-(You need to download webview.h as webview.cc first)
+Correct Webview "bindings" to C.  
+Also has incremental compilation, which makes it a lot faster.  
